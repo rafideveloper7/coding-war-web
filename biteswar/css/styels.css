@@ -259,7 +259,7 @@ body {
 }
 
 .community-section h2 {
-    background-image: url(../assets/images/community-bg.jpg);
+    /* background-image: url(../assets/images/community-bg.jpg); */
     font-size: 2.5rem;
     color: #fff;
     margin-bottom: 20px;
